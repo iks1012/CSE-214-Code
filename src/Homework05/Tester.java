@@ -1,5 +1,8 @@
 package Homework05;
 
+
+//This is not complete as this was further implemented into an android app
+//This was just to test if all the probability values were correct.
 public class Tester {
 	static GameTree gt = new GameTree();
 	public static void main(String[] args){
